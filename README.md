@@ -2,6 +2,10 @@
 
 Welcome to the ALB Hands-On project! In this project, we'll walk through setting up an Application Load Balancer (ALB) on AWS and distributing traffic between two EC2 instances running Apache HTTP Server.
 
+𝗧𝗮𝘀𝗸 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:
+
+The task at hand was to create an Application Load Balancer (ALB) to evenly distribute HTTP traffic across two EC2 instances. Each instance served a simple "Hello" webpage. Additionally, I aimed to configure listener rules to handle /error requests and respond with a custom error message to showcase advanced ALB functionalities.
+
 ### Step 1: Launch EC2 Instances
 - Create two EC2 instances with HTTP traffic allowed.
 - In the user data, install and configure Apache HTTP Server to print "Hello" on each instance.
