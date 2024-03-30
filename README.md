@@ -1,4 +1,8 @@
-# ALB-Hands-On
+
+
+# Application Load Balancer
+
+![image](https://github.com/RimshaAzmat/ALB-HandOn/assets/144583193/01a679ca-974b-42db-b9cb-fb52ea41b989)
 
 Welcome to the ALB Hands-On project! In this project, we'll walk through setting up an Application Load Balancer (ALB) on AWS and distributing traffic between two EC2 instances running Apache HTTP Server.
 
